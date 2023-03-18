@@ -15,10 +15,11 @@ Git commit
 
 Git revert commit  
     git reset --hard HEAD       (going back to HEAD)   
+    git reset --hard f414f31    (commit tag like(f414f31) - set head to this commit)  
     git reset --hard HEAD^      (going back to the commit before HEAD)  
     git reset --hard HEAD~1     (equivalent to "^")  
     git reset --hard HEAD~2     (going back two commits before HEAD)  
-    git reset --hard f414f31    (commit tag like(f414f31) - set head to this commit)   
+    
     
 Git push  
     git push / git push origin branch name
