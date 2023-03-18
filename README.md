@@ -1,5 +1,6 @@
 # git_all_necessary_commands
-Quick Start Guides to Git Concepts(https://www.gitkraken.com/learn/git)
+Quick Start Guides to Git Concepts(https://www.gitkraken.com/learn/git) 
+
 Git config: 
   git config --global user.email youremail@example.com
   git config --local user.email youremail@example.com
