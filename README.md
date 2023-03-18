@@ -5,7 +5,7 @@ Git config:
   git config --global user.email youremail@example.com  
   git config --local user.email youremail@example.com  
   git config --global user.name "Your Name"  
-  git config --global user.password "Your Name"  
+  git config --global user.password "Your Password"  
   
 Git add   
     git add .(dot for all change add) (git add change_file_name for change only this file)
